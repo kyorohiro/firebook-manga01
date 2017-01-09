@@ -6,8 +6,6 @@
 
 [https://github.com/firefirestyle/ebook\\_firefirestyle\\_clippaint/tree/master/pdf](https://github.com/firefirestyle/ebook\_firefirestyle\_clippaint/tree/master/pdf)
 
-
-
 以下、一部抜粋
 
 ![](/assets/炎の型_001.png)
@@ -15,4 +13,21 @@
 ![](/assets/炎の型_002.png)
 
 ![](/assets/炎の型_003.png)
+
+
+
+![](/assets/炎の型_004.png)
+
+![](/assets/炎の型_005.png)
+
+
+![](/assets/炎の型_006.png)
+
+
+
+
+
+
+
+
 

@@ -1,3 +1,28 @@
-# My Awesome Book
+# 炎の型 \(漫画版\) 第１巻 Tennis For Twoを作ってみよう!!
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+作りかけです。
+
+作成中のものは、以下
+
+https://github.com/firefirestyle/ebook\_firefirestyle\_clippaint/tree/master/pdf
+
+
+
+
+
+![](/assets/炎の型_001.png)
+
+
+
+![](/assets/炎の型_002.png)
+
+
+
+
+
+
+
+![](/assets/炎の型_003.png)
+
+
+

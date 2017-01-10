@@ -1,10 +1,13 @@
-# 炎の型 (漫画版) 第１巻 Scratchでプログラム入門 Tennis For Twoを作ってみよう!!
+# [homeに戻る](https://www.gitbook.com/@kyorohiro)
+
+
+# 炎の型 \(漫画版\) 第１巻 Scratchでプログラム入門 Tennis For Twoを作ってみよう!!
 
 作りかけです。
 
 作成中のものは、以下
 
-[https://github.com/firefirestyle/ebook_firefirestyle_clippaint/tree/master/pdf](https://github.com/firefirestyle/ebook_firefirestyle_clippaint/tree/master/pdf)
+[https://github.com/firefirestyle/ebook\_firefirestyle\_clippaint/tree/master/pdf](https://github.com/firefirestyle/ebook_firefirestyle_clippaint/tree/master/pdf)
 
 以下、一部抜粋
 
@@ -14,20 +17,9 @@
 
 ![](/assets/炎の型_003.png)
 
-
-
 ![](/assets/炎の型_004.png)
 
 ![](/assets/炎の型_005.png)
 
-
 ![](/assets/炎の型_006.png)
-
-
-
-
-
-
-
-
 

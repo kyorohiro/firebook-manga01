@@ -1,9 +1,10 @@
 # [homeに戻る](https://www.gitbook.com/@kyorohiro)
 
-
 # 炎の型 \(漫画版\) 第１巻 Scratchでプログラム入門 Tennis For Twoを作ってみよう!!
 
 作りかけです。
+
+
 
 作成中のものは、以下
 
